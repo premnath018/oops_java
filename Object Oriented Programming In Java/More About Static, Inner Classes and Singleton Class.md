@@ -1,4 +1,3 @@
-##### Previous [[Static Keyword In Java]]
 ## Understanding Static Initialization:
 
 In Java, static initialization refers to the process of initializing static variables or executing static blocks when the class is first loaded into memory. Here are some key points to understand about static initialization:
@@ -197,4 +196,3 @@ In this example, the `Singleton` class restricts the instantiation of the class 
 
 By understanding static initialization, inner classes, and singleton classes, you can effectively utilize these concepts in your Java programs to achieve desired functionality and design patterns.
 
-##### Next [[Principles of OOPs - Inheritance]]
