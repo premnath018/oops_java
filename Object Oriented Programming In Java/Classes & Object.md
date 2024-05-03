@@ -1,4 +1,3 @@
-##### Introduction [[Object Oriented Programming System ( OOPS )]]
 
 A class is a template for an object, and an object is an instance of a class.
 A class creates a new data type that can be used to create objects.
@@ -73,4 +72,3 @@ Bus bus = new Bus();
 
 lhs (reference i.e. bus) is looked by compiler & rhs (object i.e. new Bus()) is looked by jvm
 
-##### Next [[This, Final, Finalize Method and Constructors]]
