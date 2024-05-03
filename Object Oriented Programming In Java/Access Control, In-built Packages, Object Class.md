@@ -1,4 +1,3 @@
-##### Previous [[Principles of OOPs - Abstraction and Encapsulation]]
 ## Access Control:
 
 Access control in Java determines how members (variables, methods, and nested classes) of a class can be accessed by other classes or code outside the class itself. Java provides four access modifiers to control access levels: public, private, protected, and default (no modifier).
