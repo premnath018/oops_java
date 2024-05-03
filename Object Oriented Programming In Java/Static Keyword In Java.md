@@ -1,4 +1,3 @@
-8##### Previous [[New, Wrapper Class and Garbage Collection]]
 ### Understanding Static:
 
 In object-oriented programming, the keyword `static` is used to declare members (variables or methods) that belong to the class itself, rather than to any specific instance of the class. Here are some key points to understand about static members:
@@ -100,4 +99,3 @@ Note: The static keyword in this example modifies the declaration of the nested 
 
 By understanding the concept of static members and their usage, you can effectively utilize them to define class-level behavior and data in your programs.
 
-##### Next [[More About Static, Inner Classes and Singleton Class]]
