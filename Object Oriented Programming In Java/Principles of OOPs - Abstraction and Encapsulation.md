@@ -1,4 +1,3 @@
-##### Previous [[OOPS/Object Oriented Programming System ( OOPS )/Principles of OOPs - Polymorphism|Principles of OOPs - Polymorphism]]
 
 Abstraction and Encapsulation are two important concepts in object-oriented programming, particularly in Java. They help in designing modular and maintainable code by hiding implementation details and providing a clear interface for interacting with objects.
 
@@ -162,4 +161,3 @@ The `Main` class demonstrates how we can create an instance of the `Person` clas
 
 Abstraction and encapsulation are fundamental principles in object-oriented programming that promote code organization, modularity, and maintainability. They help in managing complexity, hiding implementation details, and providing a clear and controlled interface for working with objects.
 
-##### Next [[Access Control, In-built Packages, Object Class]]
