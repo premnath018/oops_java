@@ -11,3 +11,5 @@ Object-Oriented Programming (OOP) is a programming paradigm that organizes code 
 7. Principles of OOPs - Polymorphism
 8. Principles of OOPs - Abstraction and Encapsulation
 9. Access Control, In-built Packages, Object Class
+10. Abstract Class & Intro of Interfaces
+11. Interfaces - A Deep Dive
