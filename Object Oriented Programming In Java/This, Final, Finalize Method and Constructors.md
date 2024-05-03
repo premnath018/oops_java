@@ -1,4 +1,4 @@
-##### Previous [[Classes & Object]]
+## This, Final, Finalize Method and Constructors
 
 Let us see some important keywords and methods of class ```
 1.this 2.final 3.finalize() 4.constructors ```
@@ -112,4 +112,3 @@ In this example, the `Car` constructor explicitly calls `super(color)` to initia
 
 These examples should help clarify and expand upon the topics of constructors, inheritance, `this` keyword, `final` keyword, and finalization methods in Java. Each of these concepts plays a crucial role in object-oriented programming in Java.
 
-##### Next [[New, Wrapper Class and Garbage Collection]]
