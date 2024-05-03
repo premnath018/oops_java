@@ -1,4 +1,3 @@
-##### Previous [[More About Static, Inner Classes and Singleton Class]]
 
 To inherit a class in Java, you can use the `extends` keyword to incorporate the definition of one class into another. Here's an example of how to create a subclass that extends a superclass:
 
@@ -232,5 +231,4 @@ To summarize, Java supports single inheritance, multilevel inheritance, and hier
 
 If you need to achieve functionality similar to multiple inheritance of classes, you can use interfaces in combination with single inheritance or hierarchies to implement the desired behavior.
 
-##### Next [[Principles of OOPs - Polymorphism]]
 
