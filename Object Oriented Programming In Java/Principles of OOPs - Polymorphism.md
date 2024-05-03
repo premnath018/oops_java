@@ -1,4 +1,3 @@
-##### Previous [[Principles of OOPs - Inheritance]]
 ## Introduction:
 
 Polymorphism is a fundamental concept in object-oriented programming that allows objects of different classes to be treated as objects of a common superclass. In Java, method overloading is one aspect of polymorphism. It enables the definition of multiple methods with the same name but different parameter declarations within the same class.
@@ -159,4 +158,3 @@ In this example, we have a superclass `Shape` with a method `draw()`. The subcla
 
 Dynamic method dispatch allows for flexibility in selecting the appropriate overridden method based on the actual object type, enabling polymorphic behavior in Java programs.
 
-##### Next [[Principles of OOPs - Abstraction and Encapsulation]]
