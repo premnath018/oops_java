@@ -1,4 +1,3 @@
-##### Previous [[This, Final, Finalize Method and Constructors]]
 ## New , Wrapper Class and Garbage Collection 
 
  Let's delve into the concepts of `new` keyword, wrapper classes, and garbage collection in Java with a more detailed explanation.
@@ -122,4 +121,3 @@ When garbage collection is triggered (either explicitly or automatically by the 
 
 The output of this program may vary depending on JVM implementation and when garbage collection actually occurs. However, the `finalize()` method in the `Person` class will be called when the respective objects are garbage collected, demonstrating the cleanup process. Note that relying on `finalize()` for critical cleanup is discouraged; this example is for illustrative purposes only.
 
-##### Next [[Static Keyword In Java]]
