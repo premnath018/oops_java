@@ -39,6 +39,12 @@ Here are the exciting topics covered in this ReadMe:
 #### 1️⃣1️⃣ Interfaces - A Deep Dive 🌊
    Explore interfaces in depth, their purpose, implementation, and how they promote code flexibility.
 
+#### 1️⃣2️⃣ Generics , Lambda Expression 🦾
+   Learn about Generics & Lamba Expression with examples and learn to implement efficiently.
+   
+#### 1️⃣3️⃣ Exception Handling, Object Cloning 📋
+   Dive deep into exceptions (deal with errors smoothly) & object cloning (make perfect copies).   
+   
 Feel free to dive into any topic that interests you the most! 🏊‍♂️
 
 Happy learning and enjoy your journey into the world of Object-Oriented Programming! 🚀🔥
