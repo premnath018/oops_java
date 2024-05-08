@@ -33,7 +33,7 @@ Here are the exciting topics covered in this ReadMe:
 #### 9️⃣ Access Control, In-built Packages, Object Class 🔒📦
    Learn about access control mechanisms, utilize in-built packages, and understand the Object class.
 
-#### 🔟 Abstract Class & Intro of Interfaces 🖼️🔗
+#### 🔟 Abstract Class & Intro of Interfaces 🖼️
    Dive into abstract classes, which provide a blueprint for subclasses, and get an introduction to interfaces.
 
 #### 1️⃣1️⃣ Interfaces - A Deep Dive 🌊
@@ -44,6 +44,9 @@ Here are the exciting topics covered in this ReadMe:
    
 #### 1️⃣3️⃣ Exception Handling, Object Cloning 📋
    Dive deep into exceptions (deal with errors smoothly) & object cloning (make perfect copies).   
+
+#### 1️⃣4️⃣ Collections Framework, Vector Class, Enums in Java 🔗
+   Learn Concepts of Collection Framwork, Vector class and Enums implement efficiently.
    
 Feel free to dive into any topic that interests you the most! 🏊‍♂️
 
